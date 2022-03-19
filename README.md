@@ -205,8 +205,17 @@ int *largest(int *x,int *y){
   return l;
 }
 ```
+Makha tana lemhouriba Topics sing asigi marmd henna khangnbagi dmk Youtube channel d yengbiro:
+`dynamic memory allocation`&emsp;
+`arrays and pointers`&emsp;
+`pointer arithmetic`&emsp;
+`const and pointers`&emsp;
+`passing and returning pointers to functions`&emsp;
+`pointer pitfalls`&emsp;
+`Reference and l-value and r-value`&emsp;
+ 
 
-***Subscribe to My Youtube Channel:***
+***Pls Subscribe to My Youtube Channel:***
 [Laireipak Coding Camp][2].
 
 [2]:https://www.youtube.com/channel/UC_q7L6OcumcniSqvvYs21Lw 
