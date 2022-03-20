@@ -98,6 +98,17 @@ cout<<"Access temperature value with temp_ptr<<*temp_ptr<<endl;
 `Value of temp_ptr:0xcfde8`
 `Access temperature value with temp_ptr:109.6`
 
+
+Makha tana lemhouriba Topics sing asigi marmd henna khangnbagi dmk Youtube channel d yengbiro:
+`dynamic memory allocation`&emsp;
+`arrays and pointers`&emsp;
+`pointer arithmetic`&emsp;
+`const and pointers`&emsp;
+`passing and returning pointers to functions`&emsp;
+`pointer pitfalls`&emsp;
+`Reference and l-value and r-value`&emsp;
+
+
 ---
 **Codes Used In My Youtube Channel**
 ```C++
@@ -205,14 +216,7 @@ int *largest(int *x,int *y){
   return l;
 }
 ```
-Makha tana lemhouriba Topics sing asigi marmd henna khangnbagi dmk Youtube channel d yengbiro:
-`dynamic memory allocation`&emsp;
-`arrays and pointers`&emsp;
-`pointer arithmetic`&emsp;
-`const and pointers`&emsp;
-`passing and returning pointers to functions`&emsp;
-`pointer pitfalls`&emsp;
-`Reference and l-value and r-value`&emsp;
+
  
 
 ***Pls Subscribe to My Youtube Channel:***
