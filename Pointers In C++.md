@@ -81,7 +81,7 @@ cout<<"Address of p:"<<&p<<endl;//ef0xf34;
 
 ---
 ### 3. De-referencing a Pointer
-*Dereferencing operator*- $*$ asi pointer n point twriba variable nttrag function adugi magi value access twbad siginngni.
+*Dereferencing operator*- * asi pointer n point twriba variable nttrag function adugi magi value access twbad siginngni.
 **Code Example**
 ```C++
 double temperature{109.6};
